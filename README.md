@@ -1,2 +1,12 @@
-# Titanic-Predictions-
-predictive model that shows who was likely to survive the shipwreck
+# Titanic Predictions
+
+## Overview
+
+
+## Results
+
+
+## Summary
+
+
+### Resources 
