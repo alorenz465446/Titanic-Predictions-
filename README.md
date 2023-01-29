@@ -81,6 +81,13 @@ Part3: Predictive Modeling
 4)Important Features Extraction.
 
 
+## How Many Survivors 
+![image](https://user-images.githubusercontent.com/107652317/215355064-1162743a-92a0-41a4-a817-aae0db507549.png)
+![image](https://user-images.githubusercontent.com/107652317/215355077-de394723-6f31-4779-b251-b19468c43bfd.png)
+
+
+
+
 ## Results
 
 
