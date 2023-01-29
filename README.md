@@ -5,6 +5,8 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
 
+It took about $7.5 million to build the Titanic and it sunk under the ocean due to collision.
+
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
@@ -53,6 +55,31 @@ Spouse = husband, wife (mistresses and fiancés were ignored)
 Parent = mother, father
 Child = daughter, son, stepdaughter, stepson
 Some children travelled only with a nanny, therefore parch=0 for them.
+
+
+## Contents:
+
+Part1: Exploratory Data Analysis(EDA):
+1)Analysis of the features.
+
+2)Finding any relations or trends considering multiple features.
+
+Part2: Feature Engineering and Data Cleaning:
+1)Adding any few features.
+
+2)Removing redundant features.
+
+3)Converting features into suitable form for modeling.
+
+Part3: Predictive Modeling
+1)Running Basic Algorithms.
+
+2)Cross Validation.
+
+3)Ensembling.
+
+4)Important Features Extraction.
+
 
 ## Results
 
