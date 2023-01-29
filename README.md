@@ -82,8 +82,15 @@ Part3: Predictive Modeling
 
 
 ## How Many Survivors 
-![image](https://user-images.githubusercontent.com/107652317/215355064-1162743a-92a0-41a4-a817-aae0db507549.png)
-![image](https://user-images.githubusercontent.com/107652317/215355077-de394723-6f31-4779-b251-b19468c43bfd.png)
+![image](https://user-images.githubusercontent.com/107652317/215355064-1162743a-92a0-41a4-a817-aae0db507549.png) </br>
+![image](https://user-images.githubusercontent.com/107652317/215355077-de394723-6f31-4779-b251-b19468c43bfd.png) </br>
+Clearly not many passengers survived the sinking.
+
+Roughly 342 out of 891 passengers survived (38.4%).
+
+To get a better insight on the survival rate different features of the dataset were used. Including sex, port of embarcation, age, and more. 
+
+Let me expolain the different types of features in this data.
 
 
 
