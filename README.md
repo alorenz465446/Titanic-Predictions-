@@ -1,4 +1,6 @@
 # Titanic Predictions
+![image](https://user-images.githubusercontent.com/107652317/215613872-356354ff-9983-4caf-bb0d-6b8948fbb3a3.png)
+
 
 ## Overview
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
