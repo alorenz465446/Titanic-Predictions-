@@ -92,9 +92,21 @@ Roughly 342 out of 891 passengers survived (38.4%).
 
 To get a better insight on the survival rate different features of the dataset were used. Including sex, port of embarcation, age, and more. 
 
-Let me expolain the different types of features in this data.
+### Types Of Features
+Categorical Features:
+A categorical variable is one that has two or more categories and each value in that feature can be categorised by them.For example, gender is a categorical variable having two categories (male and female). Now we cannot sort or give any ordering to such variables. They are also known as Nominal Variables.
 
+Categorical Features in the dataset: Sex,Embarked.
 
+Ordinal Features:
+An ordinal variable is similar to categorical values, but the difference between them is that we can have relative ordering or sorting between the values. For eg: If we have a feature like Height with values Tall, Medium, Short, then Height is a ordinal variable. Here we can have a relative sort in the variable.
+
+Ordinal Features in the dataset: PClass
+
+Continous Feature:
+A feature is said to be continous if it can take values between any two points or between the minimum or maximum values in the features column.
+
+Continous Features in the dataset: Age
 
 
 ## Results
