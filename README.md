@@ -1,4 +1,6 @@
 # Titanic Predictions
+![image](https://user-images.githubusercontent.com/107652317/215613872-356354ff-9983-4caf-bb0d-6b8948fbb3a3.png)
+
 
 ## Overview
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
@@ -79,6 +81,32 @@ Part3: Predictive Modeling
 3)Ensembling.
 
 4)Important Features Extraction.
+
+
+## How Many Survivors 
+![image](https://user-images.githubusercontent.com/107652317/215355064-1162743a-92a0-41a4-a817-aae0db507549.png) </br>
+![image](https://user-images.githubusercontent.com/107652317/215355077-de394723-6f31-4779-b251-b19468c43bfd.png) </br>
+Clearly not many passengers survived the sinking.
+
+Roughly 342 out of 891 passengers survived (38.4%).
+
+To get a better insight on the survival rate different features of the dataset were used. Including sex, port of embarcation, age, and more. 
+
+### Types Of Features
+Categorical Features:
+A categorical variable is one that has two or more categories and each value in that feature can be categorised by them.For example, gender is a categorical variable having two categories (male and female). Now we cannot sort or give any ordering to such variables. They are also known as Nominal Variables.
+
+Categorical Features in the dataset: Sex,Embarked.
+
+Ordinal Features:
+An ordinal variable is similar to categorical values, but the difference between them is that we can have relative ordering or sorting between the values. For eg: If we have a feature like Height with values Tall, Medium, Short, then Height is a ordinal variable. Here we can have a relative sort in the variable.
+
+Ordinal Features in the dataset: PClass
+
+Continous Feature:
+A feature is said to be continous if it can take values between any two points or between the minimum or maximum values in the features column.
+
+Continous Features in the dataset: Age
 
 
 ## Results
